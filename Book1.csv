@@ -1,0 +1,3 @@
+firstname,lastname,username,department,password,ou
+Tom,Problem,T.Problem,HR,password,"OU=Managers, DC=enterprise, DC=com"
+Peter,Cherry,P.Cherry,IT,random ,"OU=IT,DC=enterprise,DC=com"
